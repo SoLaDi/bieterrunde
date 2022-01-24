@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Duplicate .env.example into .env
+
+### `cp .env.example .env`
+
+Update the local `PORT` the app will run on, default is `8080`
+
 ## Available Scripts
 
 In the project directory, you can run:
